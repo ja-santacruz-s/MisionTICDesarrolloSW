@@ -1,9 +1,0 @@
-D:\GanaderiaWebApp\GanaderiaWeb.App\GanaderiaWeb.App.Dominio\bin\Debug\netstandard2.1\GanaderiaWeb.App.Dominio.deps.json
-D:\GanaderiaWebApp\GanaderiaWeb.App\GanaderiaWeb.App.Dominio\bin\Debug\netstandard2.1\GanaderiaWeb.App.Dominio.dll
-D:\GanaderiaWebApp\GanaderiaWeb.App\GanaderiaWeb.App.Dominio\bin\Debug\netstandard2.1\GanaderiaWeb.App.Dominio.pdb
-D:\GanaderiaWebApp\GanaderiaWeb.App\GanaderiaWeb.App.Dominio\obj\Debug\netstandard2.1\GanaderiaWeb.App.Dominio.csprojAssemblyReference.cache
-D:\GanaderiaWebApp\GanaderiaWeb.App\GanaderiaWeb.App.Dominio\obj\Debug\netstandard2.1\GanaderiaWeb.App.Dominio.AssemblyInfoInputs.cache
-D:\GanaderiaWebApp\GanaderiaWeb.App\GanaderiaWeb.App.Dominio\obj\Debug\netstandard2.1\GanaderiaWeb.App.Dominio.AssemblyInfo.cs
-D:\GanaderiaWebApp\GanaderiaWeb.App\GanaderiaWeb.App.Dominio\obj\Debug\netstandard2.1\GanaderiaWeb.App.Dominio.csproj.CoreCompileInputs.cache
-D:\GanaderiaWebApp\GanaderiaWeb.App\GanaderiaWeb.App.Dominio\obj\Debug\netstandard2.1\GanaderiaWeb.App.Dominio.dll
-D:\GanaderiaWebApp\GanaderiaWeb.App\GanaderiaWeb.App.Dominio\obj\Debug\netstandard2.1\GanaderiaWeb.App.Dominio.pdb
