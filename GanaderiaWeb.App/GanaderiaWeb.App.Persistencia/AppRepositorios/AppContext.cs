@@ -7,6 +7,7 @@ namespace GanaderiaWeb.App.Persistencia
     {
         public DbSet<Persona> Personas { get; set; }
         public DbSet<Ganadero> Ganaderos { get; set; }
+        public DbSet<LoteGanado> LotesGanado { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
             if (!optionsBuilder.IsConfigured){
